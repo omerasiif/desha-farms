@@ -12,8 +12,8 @@ import {
   Users,
   X,
 } from 'lucide-react';
-import heroDesktop from '@/img/mobile.png';
-import heroMobile from '@/img/desk.png';
+import heroDesktop from '@/img/desha--.png';
+import heroMobile from '@/img/desha.png';
 
 const introPhoto = 'https://images.pexels.com/photos/5900823/pexels-photo-5900823.jpeg?auto=compress&cs=tinysrgb&w=1200';
 

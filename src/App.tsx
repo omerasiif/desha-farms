@@ -129,7 +129,7 @@ function App() {
             </div>
             <div className="intro-copy">
               <h2>A place to slow down <br /><i>& make memories.</i></h2>
-              <p>J Farmhouse is a peaceful private getaway made for the moments that matter. Come together, breathe a little deeper, and enjoy the simple luxury of time well spent.</p>
+              <p>Desha Farmhouse is a peaceful private getaway made for the moments that matter. Come together, breathe a little deeper, and enjoy the simple luxury of time well spent.</p>
               <a className="text-link" href="#gallery">Discover the farmhouse <ArrowRight size={16} /></a>
             </div>
           </div>

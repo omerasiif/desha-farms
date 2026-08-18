@@ -72,7 +72,7 @@ function App() {
       <header className={`site-header ${isScrolled ? 'site-header--scrolled' : ''}`}>
         <a className="brand" href="#home" onClick={closeMenu} aria-label="J Farmhouse home">
           <span className="brand-mark"><Leaf size={14} strokeWidth={1.8} /></span>
-          <span>desha <em>Farmhouse</em></span>
+          <span>Desha <em>Farmhouse</em></span>
         </a>
 
         <nav className="desktop-nav" aria-label="Main navigation">
